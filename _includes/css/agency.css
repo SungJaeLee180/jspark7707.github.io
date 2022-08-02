@@ -920,4 +920,8 @@ a:active {
     text-decoration: none;
 }
 
+a.card:hover {
+  color: #212529;
+  text-decoration: none;
+}
 
